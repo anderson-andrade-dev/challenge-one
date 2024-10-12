@@ -1,20 +1,26 @@
 package br.dev.andersonandrade.moedaOne;
 
+import br.dev.andersonandrade.moedaOne.beans.Cambio;
+import br.dev.andersonandrade.moedaOne.enuns.Moeda;
+import br.dev.andersonandrade.moedaOne.model.ConversaoModel;
+
+import java.math.BigDecimal;
+import java.util.Optional;
+
 /**
  * @author Anderson Andrade Dev
  * @Data de Criação 11/10/2024
- *///TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+ */
+
 public class Main {
     public static void main(String[] args) {
-        //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
-        // to see how IntelliJ IDEA suggests fixing it.
-        System.out.printf("Hello and welcome!");
+        ConversaoModel conversao = new ConversaoModel();
+        Optional<Cambio> cambio = conversao.converter(BigDecimal.valueOf(130), Moeda.USD, Moeda.BRL);
 
-        for (int i = 1; i <= 5; i++) {
-            //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
-            // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
-            System.out.println("i = " + i);
+        if(cambio.isPresent()){
+            System.out.println(cambio.get().getQuantidadeMoedasDestino());
+        }else{
+            System.out.println("Erro!");
         }
     }
 }

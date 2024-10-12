@@ -181,4 +181,13 @@ public enum Moeda {
     public String getPais() {
         return pais;
     }
+
+    public static Moeda buscarPorCodigo(String codigo) {
+        for (Moeda moeda : Moeda.values()) {
+            if (moeda.name().equalsIgnoreCase(codigo)) {
+                return moeda;
+            }
+        }
+        throw new IllegalArgumentException("Moeda não encontrada: " + codigo);
+    }
 }

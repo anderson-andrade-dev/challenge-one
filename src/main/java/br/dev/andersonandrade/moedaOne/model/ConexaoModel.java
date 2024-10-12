@@ -69,7 +69,6 @@ public final class ConexaoModel {
     public static Optional<MoedaRecord> buscaValoreMoedas(Moeda origem, Moeda destino) {
 
         init();
-        Optional<MoedaRecord> moedaRecord = Optional.empty();
 
         Set<MoedaRecord> listaMoedas = listaMoedaJson();
 
@@ -87,18 +86,18 @@ public final class ConexaoModel {
 
             if (moedaJson.isPresent()) {
                 logger.log(Level.INFO, "Moeda recuperada do JSON!");
-                return moedaRecord;
+                return moedaJson;
             }
         }
 
-        if (moedaRecord.isEmpty()) {
-            moedaRecord = requisacaoAPI(origem, destino);
-            gravarJson(moedaRecord.get());
-            logger.log(Level.INFO, "Moeda gravada com sucesso no JSON");
-            return moedaRecord;
-        }
+        Optional<MoedaRecord> moedaRecord = requisacaoAPI(origem, destino);
 
-        return Optional.empty();
+        moedaRecord.ifPresent(record -> {
+            gravarJson(record);
+            logger.log(Level.INFO, "Moeda gravada com sucesso no JSON");
+        });
+
+        return moedaRecord;
     }
 
     /**
