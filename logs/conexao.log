@@ -1,0 +1,332 @@
+out. 11, 2024 10:44:45 PM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Conexão bem-sucedida! 
+out. 11, 2024 10:44:45 PM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Resposta {"result":"success","documentation":"https://www.exchangerate-api.com/docs","terms_of_use":"https://www.exchangerate-api.com/terms","time_last_update_unix":1728691201,"time_last_update_utc":"Sat, 12 Oct 2024 00:00:01 +0000","time_next_update_unix":1728777601,"time_next_update_utc":"Sun, 13 Oct 2024 00:00:01 +0000","base_code":"USD","target_code":"BRL","conversion_rate":5.5800}
+out. 11, 2024 10:53:43 PM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Conexão bem-sucedida! 
+out. 11, 2024 10:53:43 PM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Resposta {"result":"success","documentation":"https://www.exchangerate-api.com/docs","terms_of_use":"https://www.exchangerate-api.com/terms","time_last_update_unix":1728691201,"time_last_update_utc":"Sat, 12 Oct 2024 00:00:01 +0000","time_next_update_unix":1728777601,"time_next_update_utc":"Sun, 13 Oct 2024 00:00:01 +0000","base_code":"USD","target_code":"BRL","conversion_rate":5.5800}
+out. 11, 2024 11:11:09 PM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Conexão bem-sucedida! 
+out. 11, 2024 11:11:09 PM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Resposta {"result":"success","documentation":"https://www.exchangerate-api.com/docs","terms_of_use":"https://www.exchangerate-api.com/terms","time_last_update_unix":1728691201,"time_last_update_utc":"Sat, 12 Oct 2024 00:00:01 +0000","time_next_update_unix":1728777601,"time_next_update_utc":"Sun, 13 Oct 2024 00:00:01 +0000","base_code":"USD","target_code":"BRL","conversion_rate":5.5800}
+out. 11, 2024 11:20:59 PM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Conexão bem-sucedida! 
+out. 11, 2024 11:20:59 PM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Resposta {"result":"success","documentation":"https://www.exchangerate-api.com/docs","terms_of_use":"https://www.exchangerate-api.com/terms","time_last_update_unix":1728691201,"time_last_update_utc":"Sat, 12 Oct 2024 00:00:01 +0000","time_next_update_unix":1728777601,"time_next_update_utc":"Sun, 13 Oct 2024 00:00:01 +0000","base_code":"USD","target_code":"BRL","conversion_rate":5.5800}
+out. 11, 2024 11:30:27 PM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Conexão bem-sucedida! 
+out. 11, 2024 11:30:27 PM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Resposta {"result":"success","documentation":"https://www.exchangerate-api.com/docs","terms_of_use":"https://www.exchangerate-api.com/terms","time_last_update_unix":1728691201,"time_last_update_utc":"Sat, 12 Oct 2024 00:00:01 +0000","time_next_update_unix":1728777601,"time_next_update_utc":"Sun, 13 Oct 2024 00:00:01 +0000","base_code":"USD","target_code":"BRL","conversion_rate":5.5800}
+out. 12, 2024 12:02:58 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Conexão bem-sucedida! 
+out. 12, 2024 12:02:58 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Resposta {"result":"success","documentation":"https://www.exchangerate-api.com/docs","terms_of_use":"https://www.exchangerate-api.com/terms","time_last_update_unix":1728691201,"time_last_update_utc":"Sat, 12 Oct 2024 00:00:01 +0000","time_next_update_unix":1728777601,"time_next_update_utc":"Sun, 13 Oct 2024 00:00:01 +0000","base_code":"USD","target_code":"BRL","conversion_rate":5.5800}
+out. 12, 2024 12:13:06 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Conexão bem-sucedida! 
+out. 12, 2024 12:13:06 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Resposta {"result":"success","documentation":"https://www.exchangerate-api.com/docs","terms_of_use":"https://www.exchangerate-api.com/terms","time_last_update_unix":1728691201,"time_last_update_utc":"Sat, 12 Oct 2024 00:00:01 +0000","time_next_update_unix":1728777601,"time_next_update_utc":"Sun, 13 Oct 2024 00:00:01 +0000","base_code":"USD","target_code":"BRL","conversion_rate":5.5800}
+out. 12, 2024 12:18:27 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Conexão bem-sucedida! 
+out. 12, 2024 12:18:27 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Resposta {"result":"success","documentation":"https://www.exchangerate-api.com/docs","terms_of_use":"https://www.exchangerate-api.com/terms","time_last_update_unix":1728691201,"time_last_update_utc":"Sat, 12 Oct 2024 00:00:01 +0000","time_next_update_unix":1728777601,"time_next_update_utc":"Sun, 13 Oct 2024 00:00:01 +0000","base_code":"USD","target_code":"BRL","conversion_rate":5.5800}
+out. 12, 2024 12:26:56 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Conexão bem-sucedida! 
+out. 12, 2024 12:26:56 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Resposta {"result":"success","documentation":"https://www.exchangerate-api.com/docs","terms_of_use":"https://www.exchangerate-api.com/terms","time_last_update_unix":1728691201,"time_last_update_utc":"Sat, 12 Oct 2024 00:00:01 +0000","time_next_update_unix":1728777601,"time_next_update_utc":"Sun, 13 Oct 2024 00:00:01 +0000","base_code":"USD","target_code":"BRL","conversion_rate":5.5800}
+out. 12, 2024 12:27:19 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Conexão bem-sucedida! 
+out. 12, 2024 12:27:19 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Resposta {"result":"success","documentation":"https://www.exchangerate-api.com/docs","terms_of_use":"https://www.exchangerate-api.com/terms","time_last_update_unix":1728691201,"time_last_update_utc":"Sat, 12 Oct 2024 00:00:01 +0000","time_next_update_unix":1728777601,"time_next_update_utc":"Sun, 13 Oct 2024 00:00:01 +0000","base_code":"USD","target_code":"BRL","conversion_rate":5.5800}
+out. 12, 2024 12:27:40 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Conexão bem-sucedida! 
+out. 12, 2024 12:27:40 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Resposta {"result":"success","documentation":"https://www.exchangerate-api.com/docs","terms_of_use":"https://www.exchangerate-api.com/terms","time_last_update_unix":1728691201,"time_last_update_utc":"Sat, 12 Oct 2024 00:00:01 +0000","time_next_update_unix":1728777601,"time_next_update_utc":"Sun, 13 Oct 2024 00:00:01 +0000","base_code":"USD","target_code":"BRL","conversion_rate":5.5800}
+out. 12, 2024 12:28:59 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Conexão bem-sucedida! 
+out. 12, 2024 12:28:59 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Resposta {"result":"success","documentation":"https://www.exchangerate-api.com/docs","terms_of_use":"https://www.exchangerate-api.com/terms","time_last_update_unix":1728691201,"time_last_update_utc":"Sat, 12 Oct 2024 00:00:01 +0000","time_next_update_unix":1728777601,"time_next_update_utc":"Sun, 13 Oct 2024 00:00:01 +0000","base_code":"USD","target_code":"BRL","conversion_rate":5.5800}
+out. 12, 2024 12:30:52 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Conexão bem-sucedida! 
+out. 12, 2024 12:30:52 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Resposta {"result":"success","documentation":"https://www.exchangerate-api.com/docs","terms_of_use":"https://www.exchangerate-api.com/terms","time_last_update_unix":1728691201,"time_last_update_utc":"Sat, 12 Oct 2024 00:00:01 +0000","time_next_update_unix":1728777601,"time_next_update_utc":"Sun, 13 Oct 2024 00:00:01 +0000","base_code":"USD","target_code":"BRL","conversion_rate":5.5800}
+out. 12, 2024 12:36:39 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Conexão bem-sucedida! 
+out. 12, 2024 12:36:39 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Resposta {"result":"success","documentation":"https://www.exchangerate-api.com/docs","terms_of_use":"https://www.exchangerate-api.com/terms","time_last_update_unix":1728691201,"time_last_update_utc":"Sat, 12 Oct 2024 00:00:01 +0000","time_next_update_unix":1728777601,"time_next_update_utc":"Sun, 13 Oct 2024 00:00:01 +0000","base_code":"USD","target_code":"BRL","conversion_rate":5.5800}
+out. 12, 2024 12:39:01 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Conexão bem-sucedida! 
+out. 12, 2024 12:39:01 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Resposta {"result":"success","documentation":"https://www.exchangerate-api.com/docs","terms_of_use":"https://www.exchangerate-api.com/terms","time_last_update_unix":1728691201,"time_last_update_utc":"Sat, 12 Oct 2024 00:00:01 +0000","time_next_update_unix":1728777601,"time_next_update_utc":"Sun, 13 Oct 2024 00:00:01 +0000","base_code":"USD","target_code":"BRL","conversion_rate":5.5800}
+out. 12, 2024 12:39:20 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Conexão bem-sucedida! 
+out. 12, 2024 12:39:20 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Resposta {"result":"success","documentation":"https://www.exchangerate-api.com/docs","terms_of_use":"https://www.exchangerate-api.com/terms","time_last_update_unix":1728691201,"time_last_update_utc":"Sat, 12 Oct 2024 00:00:01 +0000","time_next_update_unix":1728777601,"time_next_update_utc":"Sun, 13 Oct 2024 00:00:01 +0000","base_code":"USD","target_code":"BRL","conversion_rate":5.5800}
+out. 12, 2024 12:39:45 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Conexão bem-sucedida! 
+out. 12, 2024 12:39:45 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Resposta {"result":"success","documentation":"https://www.exchangerate-api.com/docs","terms_of_use":"https://www.exchangerate-api.com/terms","time_last_update_unix":1728691201,"time_last_update_utc":"Sat, 12 Oct 2024 00:00:01 +0000","time_next_update_unix":1728777601,"time_next_update_utc":"Sun, 13 Oct 2024 00:00:01 +0000","base_code":"USD","target_code":"BRL","conversion_rate":5.5800}
+out. 12, 2024 12:45:24 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Conexão bem-sucedida! 
+out. 12, 2024 12:45:24 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Resposta {"result":"success","documentation":"https://www.exchangerate-api.com/docs","terms_of_use":"https://www.exchangerate-api.com/terms","time_last_update_unix":1728691201,"time_last_update_utc":"Sat, 12 Oct 2024 00:00:01 +0000","time_next_update_unix":1728777601,"time_next_update_utc":"Sun, 13 Oct 2024 00:00:01 +0000","base_code":"USD","target_code":"BRL","conversion_rate":5.5800}
+out. 12, 2024 12:45:53 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Conexão bem-sucedida! 
+out. 12, 2024 12:45:53 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Resposta {"result":"success","documentation":"https://www.exchangerate-api.com/docs","terms_of_use":"https://www.exchangerate-api.com/terms","time_last_update_unix":1728691201,"time_last_update_utc":"Sat, 12 Oct 2024 00:00:01 +0000","time_next_update_unix":1728777601,"time_next_update_utc":"Sun, 13 Oct 2024 00:00:01 +0000","base_code":"USD","target_code":"BRL","conversion_rate":5.5800}
+out. 12, 2024 12:47:08 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Conexão bem-sucedida! 
+out. 12, 2024 12:47:08 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Resposta {"result":"success","documentation":"https://www.exchangerate-api.com/docs","terms_of_use":"https://www.exchangerate-api.com/terms","time_last_update_unix":1728691201,"time_last_update_utc":"Sat, 12 Oct 2024 00:00:01 +0000","time_next_update_unix":1728777601,"time_next_update_utc":"Sun, 13 Oct 2024 00:00:01 +0000","base_code":"USD","target_code":"BRL","conversion_rate":5.5800}
+out. 12, 2024 12:47:47 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Conexão bem-sucedida! 
+out. 12, 2024 12:47:47 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Resposta {"result":"success","documentation":"https://www.exchangerate-api.com/docs","terms_of_use":"https://www.exchangerate-api.com/terms","time_last_update_unix":1728691201,"time_last_update_utc":"Sat, 12 Oct 2024 00:00:01 +0000","time_next_update_unix":1728777601,"time_next_update_utc":"Sun, 13 Oct 2024 00:00:01 +0000","base_code":"USD","target_code":"BRL","conversion_rate":5.5800}
+out. 12, 2024 12:49:15 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Conexão bem-sucedida! 
+out. 12, 2024 12:49:15 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Resposta {"result":"success","documentation":"https://www.exchangerate-api.com/docs","terms_of_use":"https://www.exchangerate-api.com/terms","time_last_update_unix":1728691201,"time_last_update_utc":"Sat, 12 Oct 2024 00:00:01 +0000","time_next_update_unix":1728777601,"time_next_update_utc":"Sun, 13 Oct 2024 00:00:01 +0000","base_code":"USD","target_code":"BRL","conversion_rate":5.5800}
+out. 12, 2024 12:53:58 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Conexão bem-sucedida! 
+out. 12, 2024 12:53:58 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Resposta {"result":"success","documentation":"https://www.exchangerate-api.com/docs","terms_of_use":"https://www.exchangerate-api.com/terms","time_last_update_unix":1728691201,"time_last_update_utc":"Sat, 12 Oct 2024 00:00:01 +0000","time_next_update_unix":1728777601,"time_next_update_utc":"Sun, 13 Oct 2024 00:00:01 +0000","base_code":"USD","target_code":"BRL","conversion_rate":5.5800}
+out. 12, 2024 12:54:56 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Conexão bem-sucedida! 
+out. 12, 2024 12:54:56 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Resposta {"result":"success","documentation":"https://www.exchangerate-api.com/docs","terms_of_use":"https://www.exchangerate-api.com/terms","time_last_update_unix":1728691201,"time_last_update_utc":"Sat, 12 Oct 2024 00:00:01 +0000","time_next_update_unix":1728777601,"time_next_update_utc":"Sun, 13 Oct 2024 00:00:01 +0000","base_code":"USD","target_code":"BRL","conversion_rate":5.5800}
+out. 12, 2024 12:55:24 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Conexão bem-sucedida! 
+out. 12, 2024 12:55:24 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Resposta {"result":"success","documentation":"https://www.exchangerate-api.com/docs","terms_of_use":"https://www.exchangerate-api.com/terms","time_last_update_unix":1728691201,"time_last_update_utc":"Sat, 12 Oct 2024 00:00:01 +0000","time_next_update_unix":1728777601,"time_next_update_utc":"Sun, 13 Oct 2024 00:00:01 +0000","base_code":"USD","target_code":"BRL","conversion_rate":5.5800}
+out. 12, 2024 12:55:47 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Conexão bem-sucedida! 
+out. 12, 2024 12:55:47 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Resposta {"result":"success","documentation":"https://www.exchangerate-api.com/docs","terms_of_use":"https://www.exchangerate-api.com/terms","time_last_update_unix":1728691201,"time_last_update_utc":"Sat, 12 Oct 2024 00:00:01 +0000","time_next_update_unix":1728777601,"time_next_update_utc":"Sun, 13 Oct 2024 00:00:01 +0000","base_code":"USD","target_code":"BRL","conversion_rate":5.5800}
+out. 12, 2024 12:56:13 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Conexão bem-sucedida! 
+out. 12, 2024 12:56:13 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Resposta {"result":"success","documentation":"https://www.exchangerate-api.com/docs","terms_of_use":"https://www.exchangerate-api.com/terms","time_last_update_unix":1728691201,"time_last_update_utc":"Sat, 12 Oct 2024 00:00:01 +0000","time_next_update_unix":1728777601,"time_next_update_utc":"Sun, 13 Oct 2024 00:00:01 +0000","base_code":"USD","target_code":"BRL","conversion_rate":5.5800}
+out. 12, 2024 12:59:37 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Conexão bem-sucedida! 
+out. 12, 2024 12:59:37 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Resposta {"result":"success","documentation":"https://www.exchangerate-api.com/docs","terms_of_use":"https://www.exchangerate-api.com/terms","time_last_update_unix":1728691201,"time_last_update_utc":"Sat, 12 Oct 2024 00:00:01 +0000","time_next_update_unix":1728777601,"time_next_update_utc":"Sun, 13 Oct 2024 00:00:01 +0000","base_code":"USD","target_code":"BRL","conversion_rate":5.5800}
+out. 12, 2024 1:07:32 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Conexão bem-sucedida! 
+out. 12, 2024 1:07:32 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Resposta {"result":"success","documentation":"https://www.exchangerate-api.com/docs","terms_of_use":"https://www.exchangerate-api.com/terms","time_last_update_unix":1728691201,"time_last_update_utc":"Sat, 12 Oct 2024 00:00:01 +0000","time_next_update_unix":1728777601,"time_next_update_utc":"Sun, 13 Oct 2024 00:00:01 +0000","base_code":"USD","target_code":"BRL","conversion_rate":5.5800}
+out. 12, 2024 1:09:08 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Conexão bem-sucedida! 
+out. 12, 2024 1:09:08 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Resposta {"result":"success","documentation":"https://www.exchangerate-api.com/docs","terms_of_use":"https://www.exchangerate-api.com/terms","time_last_update_unix":1728691201,"time_last_update_utc":"Sat, 12 Oct 2024 00:00:01 +0000","time_next_update_unix":1728777601,"time_next_update_utc":"Sun, 13 Oct 2024 00:00:01 +0000","base_code":"USD","target_code":"BRL","conversion_rate":5.5800}
+out. 12, 2024 1:09:21 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Conexão bem-sucedida! 
+out. 12, 2024 1:09:21 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Resposta {"result":"success","documentation":"https://www.exchangerate-api.com/docs","terms_of_use":"https://www.exchangerate-api.com/terms","time_last_update_unix":1728691201,"time_last_update_utc":"Sat, 12 Oct 2024 00:00:01 +0000","time_next_update_unix":1728777601,"time_next_update_utc":"Sun, 13 Oct 2024 00:00:01 +0000","base_code":"USD","target_code":"BRL","conversion_rate":5.5800}
+out. 12, 2024 1:14:05 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Conexão bem-sucedida! 
+out. 12, 2024 1:14:05 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Resposta {"result":"success","documentation":"https://www.exchangerate-api.com/docs","terms_of_use":"https://www.exchangerate-api.com/terms","time_last_update_unix":1728691201,"time_last_update_utc":"Sat, 12 Oct 2024 00:00:01 +0000","time_next_update_unix":1728777601,"time_next_update_utc":"Sun, 13 Oct 2024 00:00:01 +0000","base_code":"USD","target_code":"BRL","conversion_rate":5.5800}
+out. 12, 2024 1:15:12 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Conexão bem-sucedida! 
+out. 12, 2024 1:15:12 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Resposta {"result":"success","documentation":"https://www.exchangerate-api.com/docs","terms_of_use":"https://www.exchangerate-api.com/terms","time_last_update_unix":1728691201,"time_last_update_utc":"Sat, 12 Oct 2024 00:00:01 +0000","time_next_update_unix":1728777601,"time_next_update_utc":"Sun, 13 Oct 2024 00:00:01 +0000","base_code":"USD","target_code":"BRL","conversion_rate":5.5800}
+out. 12, 2024 1:15:19 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Conexão bem-sucedida! 
+out. 12, 2024 1:15:19 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Resposta {"result":"success","documentation":"https://www.exchangerate-api.com/docs","terms_of_use":"https://www.exchangerate-api.com/terms","time_last_update_unix":1728691201,"time_last_update_utc":"Sat, 12 Oct 2024 00:00:01 +0000","time_next_update_unix":1728777601,"time_next_update_utc":"Sun, 13 Oct 2024 00:00:01 +0000","base_code":"USD","target_code":"BRL","conversion_rate":5.5800}
+out. 12, 2024 1:17:10 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Conexão bem-sucedida! 
+out. 12, 2024 1:17:10 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Resposta {"result":"success","documentation":"https://www.exchangerate-api.com/docs","terms_of_use":"https://www.exchangerate-api.com/terms","time_last_update_unix":1728691201,"time_last_update_utc":"Sat, 12 Oct 2024 00:00:01 +0000","time_next_update_unix":1728777601,"time_next_update_utc":"Sun, 13 Oct 2024 00:00:01 +0000","base_code":"AED","target_code":"BRL","conversion_rate":1.5194}
+out. 12, 2024 1:18:25 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Conexão bem-sucedida! 
+out. 12, 2024 1:18:25 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Resposta {"result":"success","documentation":"https://www.exchangerate-api.com/docs","terms_of_use":"https://www.exchangerate-api.com/terms","time_last_update_unix":1728691201,"time_last_update_utc":"Sat, 12 Oct 2024 00:00:01 +0000","time_next_update_unix":1728777601,"time_next_update_utc":"Sun, 13 Oct 2024 00:00:01 +0000","base_code":"USD","target_code":"BRL","conversion_rate":5.5800}
+out. 12, 2024 1:29:17 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel requisacaoAPI
+INFO: Conexão bem-sucedida! 
+out. 12, 2024 1:29:17 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel requisacaoAPI
+INFO: Resposta {"result":"success","documentation":"https://www.exchangerate-api.com/docs","terms_of_use":"https://www.exchangerate-api.com/terms","time_last_update_unix":1728691201,"time_last_update_utc":"Sat, 12 Oct 2024 00:00:01 +0000","time_next_update_unix":1728777601,"time_next_update_utc":"Sun, 13 Oct 2024 00:00:01 +0000","base_code":"USD","target_code":"BRL","conversion_rate":5.5800}
+out. 12, 2024 1:32:09 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel requisacaoAPI
+INFO: Conexão bem-sucedida! 
+out. 12, 2024 1:32:09 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel requisacaoAPI
+INFO: Resposta {"result":"success","documentation":"https://www.exchangerate-api.com/docs","terms_of_use":"https://www.exchangerate-api.com/terms","time_last_update_unix":1728691201,"time_last_update_utc":"Sat, 12 Oct 2024 00:00:01 +0000","time_next_update_unix":1728777601,"time_next_update_utc":"Sun, 13 Oct 2024 00:00:01 +0000","base_code":"USD","target_code":"BRL","conversion_rate":5.5800}
+out. 12, 2024 1:32:23 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel requisacaoAPI
+INFO: Conexão bem-sucedida! 
+out. 12, 2024 1:32:23 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel requisacaoAPI
+INFO: Resposta {"result":"success","documentation":"https://www.exchangerate-api.com/docs","terms_of_use":"https://www.exchangerate-api.com/terms","time_last_update_unix":1728691201,"time_last_update_utc":"Sat, 12 Oct 2024 00:00:01 +0000","time_next_update_unix":1728777601,"time_next_update_utc":"Sun, 13 Oct 2024 00:00:01 +0000","base_code":"USD","target_code":"BRL","conversion_rate":5.5800}
+out. 12, 2024 1:33:48 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel requisacaoAPI
+INFO: Conexão bem-sucedida! 
+out. 12, 2024 1:33:48 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel requisacaoAPI
+INFO: Resposta {"result":"success","documentation":"https://www.exchangerate-api.com/docs","terms_of_use":"https://www.exchangerate-api.com/terms","time_last_update_unix":1728691201,"time_last_update_utc":"Sat, 12 Oct 2024 00:00:01 +0000","time_next_update_unix":1728777601,"time_next_update_utc":"Sun, 13 Oct 2024 00:00:01 +0000","base_code":"USD","target_code":"BRL","conversion_rate":5.5800}
+out. 12, 2024 1:34:04 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel requisacaoAPI
+INFO: Conexão bem-sucedida! 
+out. 12, 2024 1:34:04 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel requisacaoAPI
+INFO: Resposta {"result":"success","documentation":"https://www.exchangerate-api.com/docs","terms_of_use":"https://www.exchangerate-api.com/terms","time_last_update_unix":1728691201,"time_last_update_utc":"Sat, 12 Oct 2024 00:00:01 +0000","time_next_update_unix":1728777601,"time_next_update_utc":"Sun, 13 Oct 2024 00:00:01 +0000","base_code":"USD","target_code":"BRL","conversion_rate":5.5800}
+out. 12, 2024 1:40:00 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel requisacaoAPI
+INFO: Conexão bem-sucedida! 
+out. 12, 2024 1:40:00 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel requisacaoAPI
+INFO: Resposta {"result":"success","documentation":"https://www.exchangerate-api.com/docs","terms_of_use":"https://www.exchangerate-api.com/terms","time_last_update_unix":1728691201,"time_last_update_utc":"Sat, 12 Oct 2024 00:00:01 +0000","time_next_update_unix":1728777601,"time_next_update_utc":"Sun, 13 Oct 2024 00:00:01 +0000","base_code":"USD","target_code":"BRL","conversion_rate":5.5800}
+out. 12, 2024 1:49:22 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel requisacaoAPI
+INFO: Conexão bem-sucedida! 
+out. 12, 2024 1:49:22 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel requisacaoAPI
+INFO: Resposta {"result":"success","documentation":"https://www.exchangerate-api.com/docs","terms_of_use":"https://www.exchangerate-api.com/terms","time_last_update_unix":1728691201,"time_last_update_utc":"Sat, 12 Oct 2024 00:00:01 +0000","time_next_update_unix":1728777601,"time_next_update_utc":"Sun, 13 Oct 2024 00:00:01 +0000","base_code":"USD","target_code":"BRL","conversion_rate":5.5800}
+out. 12, 2024 1:49:22 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel lambda$conecta$0
+INFO: Moeda gravada com sucesso no Json
+out. 12, 2024 2:22:56 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel converterDataAPI
+SEVERE: Erro ao converter a string de data: Sun, 13 Oct 2024 00:00:01 +0000 - Text 'Sun, 13 Oct 2024 00:00:01 +0000' could not be parsed at index 0
+out. 12, 2024 2:24:16 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel converterDataAPI
+SEVERE: Erro ao converter a string de data: Sun, 13 Oct 2024 00:00:01 +0000 - Text 'Sun, 13 Oct 2024 00:00:01 +0000' could not be parsed at index 0
+out. 12, 2024 2:26:31 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel requisacaoAPI
+INFO: Conexão bem-sucedida! 
+out. 12, 2024 2:26:31 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel requisacaoAPI
+INFO: Resposta {"result":"success","documentation":"https://www.exchangerate-api.com/docs","terms_of_use":"https://www.exchangerate-api.com/terms","time_last_update_unix":1728691201,"time_last_update_utc":"Sat, 12 Oct 2024 00:00:01 +0000","time_next_update_unix":1728777601,"time_next_update_utc":"Sun, 13 Oct 2024 00:00:01 +0000","base_code":"USD","target_code":"BRL","conversion_rate":5.5800}
+out. 12, 2024 2:26:31 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel lambda$conecta$1
+INFO: Moeda gravada com sucesso no Json
+out. 12, 2024 2:55:32 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel requisacaoAPI
+INFO: Conexão bem-sucedida! 
+out. 12, 2024 2:55:32 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel requisacaoAPI
+INFO: Resposta {"result":"success","documentation":"https://www.exchangerate-api.com/docs","terms_of_use":"https://www.exchangerate-api.com/terms","time_last_update_unix":1728691201,"time_last_update_utc":"Sat, 12 Oct 2024 00:00:01 +0000","time_next_update_unix":1728777601,"time_next_update_utc":"Sun, 13 Oct 2024 00:00:01 +0000","base_code":"USD","target_code":"BRL","conversion_rate":5.5800}
+out. 12, 2024 2:55:32 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel lambda$conecta$3
+INFO: Moeda gravada com sucesso no Json
+out. 12, 2024 3:00:03 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel requisacaoAPI
+INFO: Conexão bem-sucedida! 
+out. 12, 2024 3:00:03 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel requisacaoAPI
+INFO: Resposta {"result":"success","documentation":"https://www.exchangerate-api.com/docs","terms_of_use":"https://www.exchangerate-api.com/terms","time_last_update_unix":1728691201,"time_last_update_utc":"Sat, 12 Oct 2024 00:00:01 +0000","time_next_update_unix":1728777601,"time_next_update_utc":"Sun, 13 Oct 2024 00:00:01 +0000","base_code":"USD","target_code":"BRL","conversion_rate":5.5800}
+out. 12, 2024 3:00:03 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel lambda$conecta$1
+INFO: Moeda gravada com sucesso no Json
+out. 12, 2024 3:23:28 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Moeda recuperada do Json!
+out. 12, 2024 3:23:38 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Moeda recuperada do Json!
+out. 12, 2024 3:24:13 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Moeda recuperada do Json!
+out. 12, 2024 3:27:20 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Moeda recuperada do Json!
+out. 12, 2024 3:27:21 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel requisacaoAPI
+INFO: Conexão bem-sucedida! 
+out. 12, 2024 3:27:21 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel requisacaoAPI
+INFO: Resposta {"result":"success","documentation":"https://www.exchangerate-api.com/docs","terms_of_use":"https://www.exchangerate-api.com/terms","time_last_update_unix":1728691201,"time_last_update_utc":"Sat, 12 Oct 2024 00:00:01 +0000","time_next_update_unix":1728777601,"time_next_update_utc":"Sun, 13 Oct 2024 00:00:01 +0000","base_code":"AMD","target_code":"BRL","conversion_rate":0.01442}
+out. 12, 2024 3:27:21 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Moeda gravada com sucesso no Json
+out. 12, 2024 3:27:42 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Moeda recuperada do Json!
+out. 12, 2024 3:27:43 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel requisacaoAPI
+INFO: Conexão bem-sucedida! 
+out. 12, 2024 3:27:43 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel requisacaoAPI
+INFO: Resposta {"result":"success","documentation":"https://www.exchangerate-api.com/docs","terms_of_use":"https://www.exchangerate-api.com/terms","time_last_update_unix":1728691201,"time_last_update_utc":"Sat, 12 Oct 2024 00:00:01 +0000","time_next_update_unix":1728777601,"time_next_update_utc":"Sun, 13 Oct 2024 00:00:01 +0000","base_code":"AMD","target_code":"BRL","conversion_rate":0.01442}
+out. 12, 2024 3:27:43 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Moeda gravada com sucesso no Json
+out. 12, 2024 3:33:10 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Moeda recuperada do Json!
+out. 12, 2024 3:33:16 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Moeda recuperada do Json!
+out. 12, 2024 3:33:32 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel requisacaoAPI
+INFO: Conexão bem-sucedida! 
+out. 12, 2024 3:33:32 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel requisacaoAPI
+INFO: Resposta {"result":"success","documentation":"https://www.exchangerate-api.com/docs","terms_of_use":"https://www.exchangerate-api.com/terms","time_last_update_unix":1728691201,"time_last_update_utc":"Sat, 12 Oct 2024 00:00:01 +0000","time_next_update_unix":1728777601,"time_next_update_utc":"Sun, 13 Oct 2024 00:00:01 +0000","base_code":"AMD","target_code":"BRL","conversion_rate":0.01442}
+out. 12, 2024 3:33:32 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Moeda gravada com sucesso no Json
+out. 12, 2024 3:34:18 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Moeda recuperada do Json!
+out. 12, 2024 3:34:31 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Moeda recuperada do Json!
+out. 12, 2024 3:38:38 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel requisacaoAPI
+INFO: Conexão bem-sucedida! 
+out. 12, 2024 3:38:38 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel requisacaoAPI
+INFO: Resposta {"result":"success","documentation":"https://www.exchangerate-api.com/docs","terms_of_use":"https://www.exchangerate-api.com/terms","time_last_update_unix":1728691201,"time_last_update_utc":"Sat, 12 Oct 2024 00:00:01 +0000","time_next_update_unix":1728777601,"time_next_update_utc":"Sun, 13 Oct 2024 00:00:01 +0000","base_code":"USD","target_code":"BRL","conversion_rate":5.5800}
+out. 12, 2024 3:38:38 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Moeda gravada com sucesso no Json
+out. 12, 2024 3:39:00 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel requisacaoAPI
+INFO: Conexão bem-sucedida! 
+out. 12, 2024 3:39:00 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel requisacaoAPI
+INFO: Resposta {"result":"success","documentation":"https://www.exchangerate-api.com/docs","terms_of_use":"https://www.exchangerate-api.com/terms","time_last_update_unix":1728691201,"time_last_update_utc":"Sat, 12 Oct 2024 00:00:01 +0000","time_next_update_unix":1728777601,"time_next_update_utc":"Sun, 13 Oct 2024 00:00:01 +0000","base_code":"USD","target_code":"BRL","conversion_rate":5.5800}
+out. 12, 2024 3:39:00 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Moeda gravada com sucesso no Json
+out. 12, 2024 3:39:21 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel requisacaoAPI
+INFO: Conexão bem-sucedida! 
+out. 12, 2024 3:39:21 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel requisacaoAPI
+INFO: Resposta {"result":"success","documentation":"https://www.exchangerate-api.com/docs","terms_of_use":"https://www.exchangerate-api.com/terms","time_last_update_unix":1728691201,"time_last_update_utc":"Sat, 12 Oct 2024 00:00:01 +0000","time_next_update_unix":1728777601,"time_next_update_utc":"Sun, 13 Oct 2024 00:00:01 +0000","base_code":"USD","target_code":"BRL","conversion_rate":5.5800}
+out. 12, 2024 3:39:21 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Moeda gravada com sucesso no Json
+out. 12, 2024 3:41:23 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel requisacaoAPI
+INFO: Conexão bem-sucedida! 
+out. 12, 2024 3:41:23 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel requisacaoAPI
+INFO: Resposta {"result":"success","documentation":"https://www.exchangerate-api.com/docs","terms_of_use":"https://www.exchangerate-api.com/terms","time_last_update_unix":1728691201,"time_last_update_utc":"Sat, 12 Oct 2024 00:00:01 +0000","time_next_update_unix":1728777601,"time_next_update_utc":"Sun, 13 Oct 2024 00:00:01 +0000","base_code":"USD","target_code":"BRL","conversion_rate":5.5800}
+out. 12, 2024 3:41:23 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Moeda gravada com sucesso no Json
+out. 12, 2024 3:42:42 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel requisacaoAPI
+INFO: Conexão bem-sucedida! 
+out. 12, 2024 3:42:42 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel requisacaoAPI
+INFO: Resposta {"result":"success","documentation":"https://www.exchangerate-api.com/docs","terms_of_use":"https://www.exchangerate-api.com/terms","time_last_update_unix":1728691201,"time_last_update_utc":"Sat, 12 Oct 2024 00:00:01 +0000","time_next_update_unix":1728777601,"time_next_update_utc":"Sun, 13 Oct 2024 00:00:01 +0000","base_code":"USD","target_code":"BRL","conversion_rate":5.5800}
+out. 12, 2024 3:42:42 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Moeda gravada com sucesso no Json
+out. 12, 2024 3:43:06 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel requisacaoAPI
+INFO: Conexão bem-sucedida! 
+out. 12, 2024 3:43:06 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel requisacaoAPI
+INFO: Resposta {"result":"success","documentation":"https://www.exchangerate-api.com/docs","terms_of_use":"https://www.exchangerate-api.com/terms","time_last_update_unix":1728691201,"time_last_update_utc":"Sat, 12 Oct 2024 00:00:01 +0000","time_next_update_unix":1728777601,"time_next_update_utc":"Sun, 13 Oct 2024 00:00:01 +0000","base_code":"USD","target_code":"BRL","conversion_rate":5.5800}
+out. 12, 2024 3:43:06 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Moeda gravada com sucesso no Json
+out. 12, 2024 3:44:27 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Moeda recuperada do Json!
+out. 12, 2024 3:44:52 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Moeda recuperada do Json!
+out. 12, 2024 3:45:14 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Moeda recuperada do Json!
+out. 12, 2024 3:45:54 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Moeda recuperada do Json!
+out. 12, 2024 3:46:27 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Moeda recuperada do Json!
+out. 12, 2024 3:48:05 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel requisacaoAPI
+INFO: Conexão bem-sucedida! 
+out. 12, 2024 3:48:05 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel requisacaoAPI
+INFO: Resposta {"result":"success","documentation":"https://www.exchangerate-api.com/docs","terms_of_use":"https://www.exchangerate-api.com/terms","time_last_update_unix":1728691201,"time_last_update_utc":"Sat, 12 Oct 2024 00:00:01 +0000","time_next_update_unix":1728777601,"time_next_update_utc":"Sun, 13 Oct 2024 00:00:01 +0000","base_code":"ARS","target_code":"BRL","conversion_rate":0.005697}
+out. 12, 2024 3:48:05 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Moeda gravada com sucesso no Json
+out. 12, 2024 3:48:15 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel requisacaoAPI
+INFO: Conexão bem-sucedida! 
+out. 12, 2024 3:48:15 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel requisacaoAPI
+INFO: Resposta {"result":"success","documentation":"https://www.exchangerate-api.com/docs","terms_of_use":"https://www.exchangerate-api.com/terms","time_last_update_unix":1728691201,"time_last_update_utc":"Sat, 12 Oct 2024 00:00:01 +0000","time_next_update_unix":1728777601,"time_next_update_utc":"Sun, 13 Oct 2024 00:00:01 +0000","base_code":"ARS","target_code":"BRL","conversion_rate":0.005697}
+out. 12, 2024 3:48:15 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Moeda gravada com sucesso no Json
+out. 12, 2024 3:49:01 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel requisacaoAPI
+INFO: Conexão bem-sucedida! 
+out. 12, 2024 3:49:01 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel requisacaoAPI
+INFO: Resposta {"result":"success","documentation":"https://www.exchangerate-api.com/docs","terms_of_use":"https://www.exchangerate-api.com/terms","time_last_update_unix":1728691201,"time_last_update_utc":"Sat, 12 Oct 2024 00:00:01 +0000","time_next_update_unix":1728777601,"time_next_update_utc":"Sun, 13 Oct 2024 00:00:01 +0000","base_code":"ARS","target_code":"BRL","conversion_rate":0.005697}
+out. 12, 2024 3:49:01 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Moeda gravada com sucesso no Json
+out. 12, 2024 3:49:39 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel requisacaoAPI
+INFO: Conexão bem-sucedida! 
+out. 12, 2024 3:49:39 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel requisacaoAPI
+INFO: Resposta {"result":"success","documentation":"https://www.exchangerate-api.com/docs","terms_of_use":"https://www.exchangerate-api.com/terms","time_last_update_unix":1728691201,"time_last_update_utc":"Sat, 12 Oct 2024 00:00:01 +0000","time_next_update_unix":1728777601,"time_next_update_utc":"Sun, 13 Oct 2024 00:00:01 +0000","base_code":"ARS","target_code":"BRL","conversion_rate":0.005697}
+out. 12, 2024 3:49:39 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Moeda gravada com sucesso no Json
+out. 12, 2024 3:50:25 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel requisacaoAPI
+INFO: Conexão bem-sucedida! 
+out. 12, 2024 3:50:25 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel requisacaoAPI
+INFO: Resposta {"result":"success","documentation":"https://www.exchangerate-api.com/docs","terms_of_use":"https://www.exchangerate-api.com/terms","time_last_update_unix":1728691201,"time_last_update_utc":"Sat, 12 Oct 2024 00:00:01 +0000","time_next_update_unix":1728777601,"time_next_update_utc":"Sun, 13 Oct 2024 00:00:01 +0000","base_code":"ARS","target_code":"BRL","conversion_rate":0.005697}
+out. 12, 2024 3:50:25 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Moeda gravada com sucesso no Json
+out. 12, 2024 3:50:47 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel requisacaoAPI
+INFO: Conexão bem-sucedida! 
+out. 12, 2024 3:50:47 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel requisacaoAPI
+INFO: Resposta {"result":"success","documentation":"https://www.exchangerate-api.com/docs","terms_of_use":"https://www.exchangerate-api.com/terms","time_last_update_unix":1728691201,"time_last_update_utc":"Sat, 12 Oct 2024 00:00:01 +0000","time_next_update_unix":1728777601,"time_next_update_utc":"Sun, 13 Oct 2024 00:00:01 +0000","base_code":"ARS","target_code":"BRL","conversion_rate":0.005697}
+out. 12, 2024 3:50:47 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Moeda gravada com sucesso no Json
+out. 12, 2024 3:51:26 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel requisacaoAPI
+INFO: Conexão bem-sucedida! 
+out. 12, 2024 3:51:26 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel requisacaoAPI
+INFO: Resposta {"result":"success","documentation":"https://www.exchangerate-api.com/docs","terms_of_use":"https://www.exchangerate-api.com/terms","time_last_update_unix":1728691201,"time_last_update_utc":"Sat, 12 Oct 2024 00:00:01 +0000","time_next_update_unix":1728777601,"time_next_update_utc":"Sun, 13 Oct 2024 00:00:01 +0000","base_code":"ARS","target_code":"BRL","conversion_rate":0.005697}
+out. 12, 2024 3:51:26 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Moeda gravada com sucesso no Json
+out. 12, 2024 3:52:03 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel requisacaoAPI
+INFO: Conexão bem-sucedida! 
+out. 12, 2024 3:52:03 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel requisacaoAPI
+INFO: Resposta {"result":"success","documentation":"https://www.exchangerate-api.com/docs","terms_of_use":"https://www.exchangerate-api.com/terms","time_last_update_unix":1728691201,"time_last_update_utc":"Sat, 12 Oct 2024 00:00:01 +0000","time_next_update_unix":1728777601,"time_next_update_utc":"Sun, 13 Oct 2024 00:00:01 +0000","base_code":"ARS","target_code":"BRL","conversion_rate":0.005697}
+out. 12, 2024 3:52:03 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Moeda gravada com sucesso no Json
+out. 12, 2024 3:53:20 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel conecta
+INFO: Moeda recuperada do Json!
+out. 12, 2024 4:16:51 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel buscaValoreMoedas
+INFO: Moeda recuperada do Json!
+out. 12, 2024 4:36:17 AM br.dev.andersonandrade.moedaOne.model.ConexaoModel buscaValoreMoedas
+INFO: Moeda recuperada do JSON!

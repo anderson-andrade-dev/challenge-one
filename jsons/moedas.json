@@ -1,0 +1,38 @@
+[
+  {
+    "result": "success",
+    "documentation": "https://www.exchangerate-api.com/docs",
+    "terms_of_use": "https://www.exchangerate-api.com/terms",
+    "time_last_update_unix": 1728691201,
+    "time_last_update_utc": "Sat, 12 Oct 2024 00:00:01 +0000",
+    "time_next_update_unix": 1728777601,
+    "time_next_update_utc": "Sun, 13 Oct 2024 00:00:01 +0000",
+    "base_code": "AMD",
+    "target_code": "BRL",
+    "conversion_rate": 0.01442
+  },
+  {
+    "result": "success",
+    "documentation": "https://www.exchangerate-api.com/docs",
+    "terms_of_use": "https://www.exchangerate-api.com/terms",
+    "time_last_update_unix": 1728691201,
+    "time_last_update_utc": "Sat, 12 Oct 2024 00:00:01 +0000",
+    "time_next_update_unix": 1728777601,
+    "time_next_update_utc": "Sun, 13 Oct 2024 00:00:01 +0000",
+    "base_code": "USD",
+    "target_code": "BRL",
+    "conversion_rate": 5.5800
+  },
+  {
+    "result": "success",
+    "documentation": "https://www.exchangerate-api.com/docs",
+    "terms_of_use": "https://www.exchangerate-api.com/terms",
+    "time_last_update_unix": 1728691201,
+    "time_last_update_utc": "Sat, 12 Oct 2024 00:00:01 +0000",
+    "time_next_update_unix": 1728777601,
+    "time_next_update_utc": "Sun, 13 Oct 2024 00:00:01 +0000",
+    "base_code": "ARS",
+    "target_code": "BRL",
+    "conversion_rate": 0.005697
+  }
+]
