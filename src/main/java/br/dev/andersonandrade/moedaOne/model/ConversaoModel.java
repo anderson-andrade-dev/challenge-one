@@ -13,15 +13,11 @@ import java.util.Optional;
  */
 public class ConversaoModel {
 
-    public Optional<Cambio> converter(BigDecimal quantidade, Moeda origem, Moeda destino){
+  public Optional<Cambio> converter(BigDecimal quantidade, Moeda origem, Moeda destino) {
 
-        Optional<MoedaRecord> moedaAConverter = ConexaoModel.buscaValoreMoedas(origem,destino);
+    Optional<MoedaRecord> moedaAConverter = ConexaoModel.buscaValoreMoedas(origem, destino);
 
-        if(moedaAConverter.isPresent()){
-          return Optional.of(new Cambio(quantidade, moedaAConverter.get()));
-        }
-
-        return Optional.empty();
-    }
+    return moedaAConverter.map(moedaRecord -> new Cambio(quantidade, moedaRecord));
+  }
 
 }
