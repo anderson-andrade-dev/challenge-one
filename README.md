@@ -40,7 +40,7 @@ src/
 
 1. Clone este repositório em sua máquina local:
    ```bash
-   git clone [https://github.com/seu-usuario/conversor-moeda-oracle-one.git](https://github.com/anderson-andrade-dev/challenge-one)
+   git clone https://github.com/seu-usuario/conversor-moeda-oracle-one.git
    ```
 
 2. Navegue até o diretório do projeto:
