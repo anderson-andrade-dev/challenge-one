@@ -1,6 +1,6 @@
 # 🌍 Conversor de Moeda Oracle One
 
-![Conversor de Moeda](https://via.placeholder.com/800x300?text=Conversor+de+Moeda+Oracle+One)
+![Conversor de Moeda](https://github.com/anderson-andrade-dev/anderson-andrade-dev/blob/main/Slide1.JPG)
 
 **Este projeto é um conversor de moedas desenvolvido em Java, que utiliza a API** [ExchangeRate-API](https://www.exchangerate-api.com/) **para obter as taxas de câmbio mais recentes. O projeto também incorpora um logger para gerenciamento de logs e testes utilizando JUnit 5.**
 
