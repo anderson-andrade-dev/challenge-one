@@ -6,7 +6,7 @@
 
 ## 🚀 Tecnologias Utilizadas
 
-- **Java 21**: Linguagem de programação principal utilizada no projeto.
+- **Java 22**: Linguagem de programação principal utilizada no projeto.
 - **Gson**: Biblioteca para serialização e deserialização de objetos Java em formato JSON e vice-versa.
 - **API ExchangeRate**: API utilizada para obter as taxas de câmbio entre diferentes moedas.
 - **Logger**: Usado para registrar informações e erros durante a execução do programa.
